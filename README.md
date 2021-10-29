@@ -18,11 +18,8 @@ Python notebooks have been using Google Colab.
 
 # Models
 - 1D CNN with pre-trained embbedding
-
 - 1D CNN with your own embbedding
-- 
 - LSTM with pre-trained embbedding
-
 - LSTM with your own embbedding
 
 
